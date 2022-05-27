@@ -6,4 +6,6 @@
 
 - 🏫 I major in software engineering
 - 🤩 I am interested in Java & Go
-- 🍬 Hope you have a good day in this site
+- 🍬 Hope you have a good day
+
+ #### ![Visitor Count](https://profile-counter.glitch.me/isVergil/count.svg) Visitors
